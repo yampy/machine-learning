@@ -3,6 +3,11 @@ keras/vgg16/transfer-learning/out/
 keras/vgg16/transfer-learning/tmp/
 keras/vgg16/transfer-learning/.ipynb_checkpoints/
 
+keras/vgg16/fine-tuning/dataset/
+keras/vgg16/fine-tuning/out/
+keras/vgg16/fine-tuning/tmp/
+keras/vgg16/fine-tuning/.ipynb_checkpoints/
+
 keras/keras-introduction/.ipynb_checkpoints/keras_mnist_cnn-checkpoint.ipynb
 keras/vgg16/transfer-learning/.ipynb_checkpoints/vgg16-transferlearning-checkpoint.ipynb
 keras/keras-introduction/.ipynb_checkpoints/keras_mnist_pixeldata-checkpoint.ipynb
