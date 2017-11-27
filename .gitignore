@@ -6,3 +6,6 @@ keras/vgg16/transfer-learning/.ipynb_checkpoints/
 keras/keras-introduction/.ipynb_checkpoints/keras_mnist_cnn-checkpoint.ipynb
 keras/vgg16/transfer-learning/.ipynb_checkpoints/vgg16-transferlearning-checkpoint.ipynb
 keras/keras-introduction/.ipynb_checkpoints/keras_mnist_pixeldata-checkpoint.ipynb
+
+recommendation/datasets/uci-news-aggregator.csv 
+recommendation/output/similarity_calc_result.csv
